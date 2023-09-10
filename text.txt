@@ -1,5 +1,4 @@
-git repo - https://github.com/niteshbagde/gem_price_prediction_ML_project.git
-
+git repo - https://github.com/niteshbagde/gem-app.git
 
 
 
