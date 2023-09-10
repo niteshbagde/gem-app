@@ -1,0 +1,21 @@
+git repo - https://github.com/niteshbagde/gem_price_prediction_ML_project.git
+
+
+
+
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+jupyterlab
+tensorflow
+torch
+xgboost
+lightgbm
+opencv-python
+scipy
+joblib
+flask
+ipykernel
+-e .
