@@ -1,3 +1,6 @@
+# For AWS ELASTIC BEANSTALK DEPLOYMENT
+> The configuration is for AWS deployment through Github code pipeline
+
 ## END to END ML Project ##
 
 This repository contains an end-to-end machine learning project, showcasing the steps involved in building, training, and deploying a machine learning model.
