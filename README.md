@@ -1,5 +1,5 @@
-# For AWS ELASTIC BEANSTALK DEPLOYMENT
-> The configuration is for AWS deployment through Github code pipeline
+# For Azure DEPLOYMENT
+> The configuration is for Azure deployment through Github actions CICD flow
 
 ## END to END ML Project ##
 
