@@ -1,10 +1,6 @@
-FROM  python:3.8-slim
-WORKDIR /code
-ENV FLASK_APP=app.py
-ENV FLASK_RUN_HOST="0.0.0.0"
-COPY . /code 
-RUN pip install -r requirements.txt
-EXPOSE 5000
-CMD ["flask" , "run"]
-
-# working fine
+FROM  python:3.8-slim-buster
+WORKDIR /app
+COPY . /app 
+RUN apt update -y && apt install awscli -y
+RUN apt-get update && pip install -r requirements.txt
+CMD ["python3" , "app.py"]
